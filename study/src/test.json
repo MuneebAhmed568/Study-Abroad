@@ -1,0 +1,17 @@
+[
+    {
+      "id": 1,
+      "uniImg": "./assets/images/avatars/1.jpg",
+      "uni": "NUML"
+    },
+    {
+        "id": 2,
+        "uniImg": "./assets/images/avatars/1.jpg",
+        "uni": "COMSATS"
+    },
+    {
+        "id": 3,
+        "uniImg": "./assets/images/avatars/1.jpg",
+        "uni": "HARDWARD"
+    }
+  ]

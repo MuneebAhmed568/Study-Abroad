@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{00BE69C4-8F5C-4E7B-938A-0AB96F40E6E7}|Default">
+  <MonoDevelop.Ide.ItemProperties.Project-Copy-Master PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="appsettings.json">
+    <Files>
+      <File FileName="Controllers/addsinfoController.cs" />
+      <File FileName="Startup.cs" />
+      <File FileName="Program.cs" />
+      <File FileName="AppDbContext.cs" />
+      <File FileName="appsettings.json" Line="4" Column="54" />
+      <File FileName="Repository/addsinfoRepository.cs" />
+      <File FileName="Repository/IBlogsRepository.cs" />
+      <File FileName="Controllers/StudentinfoController.cs" />
+      <File FileName="Repository/CommentsinfoRepository.cs" />
+      <File FileName="Repository/BlogsRepository.cs" />
+      <File FileName="Repository/Cities_infoRepository.cs" />
+      <File FileName="Dockerfile" />
+      <File FileName="WeatherForecast.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Project-Copy-Master" expanded="True">
+            <Node name="Project-Copy-Master" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

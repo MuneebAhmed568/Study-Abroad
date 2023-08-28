@@ -1,0 +1,38 @@
+[
+    {
+      "id": 1,
+      "cardimg": "./assets/images/avatars/1.jpg",
+      "level": "graduate",
+      "purpose": "Education",
+      "institute": "NUML",
+      "Eligible": "Education,Religion & Ethics,Social Sciences",
+      "Criteria": "Education,Religion & Social Sciences",
+      "applydate": "01/01/0101",
+      "countryflag": "assets/images/avatars/4.jpg",
+      "counrtyname": "USa"
+    },
+    {
+        "id": 2,
+      "cardimg": "./assets/images/avatars/1.jpg",
+      "level": "graduate",
+      "purpose": "Education",
+      "institute": "NUML",
+      "Eligible": "Education,Religion & Ethics,Social Sciences",
+      "Criteria": "Education,Religion & Social Sciences",
+      "applydate": "01/01/0101",
+      "countryflag": "assets/images/avatars/4.jpg",
+      "counrtyname": "USa"
+    },
+    {
+        "id": 3,
+      "cardimg": "./assets/images/avatars/1.jpg",
+      "level": "graduate",
+      "purpose": "Education",
+      "institute": "NUML",
+      "Eligible": "Education,Religion & Ethics,Social Sciences",
+      "Criteria": "Education,Religion & Social Sciences",
+      "applydate": "01/01/0101",
+      "countryflag": "assets/images/avatars/4.jpg",
+      "counrtyname": "USa"
+    }
+  ]
